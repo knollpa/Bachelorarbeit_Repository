@@ -1,0 +1,25 @@
+[project]
+name = "knoll-bachelorarbeit"
+version = "0.1.0"
+description = ""
+authors = [
+    {name = "Pascal Knoll",email = "Pascal.knoll@rwu.de"}
+]
+requires-python = ">=3.11,<3.14"
+dependencies = [
+    "openai (>=2.32.0,<3.0.0)",
+    "google-genai (>=1.73.1,<2.0.0)",
+    "pandas (>=3.0.2,<4.0.0)",
+    "beautifulsoup4 (>=4.14.3,<5.0.0)",
+    "python-dotenv (>=1.2.2,<2.0.0)",
+    "anthropic (>=0.116.0,<1.0.0)",
+    "krippendorff (>=0.8.0,<1.0.0)",
+    "scipy (>=1.18.0,<2.0.0)",
+    "matplotlib (>=3.11.0,<4.0.0)",
+    "numpy (>=2.4.4,<3.0.0)"
+]
+
+
+[build-system]
+requires = ["poetry-core>=2.0.0,<3.0.0"]
+build-backend = "poetry.core.masonry.api"

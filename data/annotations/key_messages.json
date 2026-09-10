@@ -1,0 +1,31 @@
+{
+  "01": {
+    "titel": "The new BMW i3. Second model of the Neue Klasse.",
+    "kernaussagen": [
+      "Der neue, vollelektrische BMW i3 ist die erste vollelektrische 3er-Reihe und das zweite Modell der Neuen Klasse.",
+      "Der BMW i3 50 xDrive leistet 345 kW/469 PS Systemleistung bei 645 Nm maximalem Drehmoment mit je einem E-Motor an Vorder- und Hinterachse.",
+      "Die Reichweite beträgt bis zu 900 km (WLTP); mit bis zu 400 kW DC-Ladeleistung lassen sich bis zu 400 km Reichweite in 10 Minuten nachladen (ISO 12906, WLTP).",
+      "Die sechste Generation der BMW eDrive Technologie umfasst 800-Volt-Technik und neue Hochvoltbatterien mit Rundzellen im Cell-to-Pack-Design inkl. bidirektionalem Laden (V2L/V2H/V2G).",
+      "Die Produktion startet ab August 2026 im BMW Group Werk München; erste Auslieferungen ab Herbst 2026, ein Jahr später Umstellung des Werks auf ausschließlich vollelektrische Neue-Klasse-Fahrzeuge."
+    ]
+  },
+  "02": {
+    "titel": "BMW Group to deploy humanoid robots in production in Germany for the first time",
+    "kernaussagen": [
+      "Die BMW Group startet erstmals in Europa ein Pilotprojekt mit humanoiden Robotern im Werk Leipzig, gemeinsam mit dem langjährigen Partner Hexagon und dessen Roboter AEON (Pilotphase ab Sommer 2026, Einsatz in Hochvoltbatterie-Montage und Komponentenfertigung).",
+      "Grundlage ist 'Physical AI' – die Kombination digitaler KI-Agenten mit realen Robotern auf Basis einer einheitlichen Datenplattform im Produktionssystem (BMW iFACTORY).",
+      "Das neue 'Center of Competence for Physical AI in Production' bündelt die Expertise; Technologiepartner durchlaufen einen klar strukturierten Evaluierungsprozess von der theoretischen Bewertung bis zur Pilotphase.",
+      "Der weltweit erste Einsatz im Werk Spartanburg (2025, mit Figure AI) war erfolgreich: Der Roboter Figure 02 unterstützte in zehn Monaten die Produktion von über 30.000 BMW X3, bewegte über 90.000 Bauteile in rund 1.250 Betriebsstunden; Ziel ist die Entlastung der Mitarbeitenden bei monotonen, ergonomisch belastenden oder sicherheitskritischen Aufgaben."
+    ]
+  },
+  "03": {
+    "titel": "MINI relies on Innovative Materials in the Interior",
+    "kernaussagen": [      "MINI setzt seit Marktstart 2024 in allen Modellen nach dem 'Secondary First'-Prinzip Strickmaterial aus Recyclingmaterial im Interieur ein (Armaturentafel, Türverkleidung, Mittelkonsolendeckel).",
+      "Das Strickmaterial besteht zu 92 % aus Polyester-Rezyklat und reduziert CO2e-Emissionen und Wasserverbrauch in der Produktion deutlich gegenüber Primärmaterialien; die Komponenten sind abriebfest, strukturell verstärkt und komplett lederfrei.",
+      "MINI Knit ist Gesamtsieger des SPE Automotive Award 2025 und Gewinner des Grand Award in der Kategorie 'Body Interior'.",
+      "Auch der neue BMW iX3 (erstes Modell der Neuen Klasse) nutzt die Stricktechnologie: 75 % Recyclinganteil in der Instrumententafel des 'Contemporary'-Trims ('Design for Circularity'), mit transluzentem Gestrick für Hinterleuchtung.",
+      "Bereichs- und industrieübergreifende Kollaboration mit internen und externen Partnern war der Schlüssel zur Serienreife der Textillösung."
+    ]
+  }
+}
+

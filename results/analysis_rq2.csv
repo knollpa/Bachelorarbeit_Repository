@@ -1,0 +1,4 @@
+metric;model_a;model_b;rho;p_value;n
+IA;gpt-5.4-mini-2026-03-17;gemini-3.5-flash;-0.360528;0.108381;21
+HR;gpt-5.4-mini-2026-03-17;gemini-3.5-flash;;;21
+KMC;gpt-5.4-mini-2026-03-17;gemini-3.5-flash;0.240146;0.294387;21
